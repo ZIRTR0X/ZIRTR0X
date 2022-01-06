@@ -14,13 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me :
+
+I'm Julien, a french second-year student studying computer science at UCA.
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZIRTR0X&layout=compact&show_icons=true&theme=radical)
 <!--![Metrics](https://metrics.lecoq.io/ZIRTR0X?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FParis)-->
 
 ### Connect with me:
 
 [<img align="left" alt="ZIRTR0X LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111368.png" />][linkedin]
-[<img align="left" alt="ZIRTR0X | Spotify" width="22px" src="https://cdn-icons.flaticon.com/png/512/3669/premium/3669986.png?token=exp=1641480273~hmac=d0331d8e87c37cb66451e8d2ab6cad6a" />][spotify]
 
 <br />
 
@@ -77,4 +81,3 @@ Here are some ideas to get you started:
 </p>
 
 [linkedin]: https://www.linkedin.com/in/julien-theme/
-[spotify]: https://open.spotify.com/user/jujupersol

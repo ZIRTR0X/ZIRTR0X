@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="antoinedenovembre | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111368.png" />][linkedin]
-[<img align="left" alt="antoinedenovembre | Spotify" width="22px" src="https://cdn-icons.flaticon.com/png/512/3669/premium/3669986.png?token=exp=1641480273~hmac=d0331d8e87c37cb66451e8d2ab6cad6a" />][spotify]
+[<img align="left" alt="ZIRTR0X LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111368.png" />][linkedin]
+[<img align="left" alt="ZIRTR0X | Spotify" width="22px" src="https://cdn-icons.flaticon.com/png/512/3669/premium/3669986.png?token=exp=1641480273~hmac=d0331d8e87c37cb66451e8d2ab6cad6a" />][spotify]
 
 <br />
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   	<a href="https://en.wikipedia.org/wiki/Windows_10" target="_blank">
 		<img align="center" src="https://img.shields.io/badge/-WINDOWS_10-00adef?style=for-the-badge&logo=windows&logoColor=white" alt="windows10"/>
 	</a>
-  <a href="https://en.wikipedia.org/wiki/Windows_10" target="_blank">
+  <a href="https://en.wikipedia.org/wiki/Windows_11 target="_blank">
 		<img align="center" src="https://img.shields.io/badge/-WINDOWS_11-00adef?style=for-the-badge&logo=windows&logoColor=white" alt="windows10"/>
 	</a>
 	<a href="https://en.wikipedia.org/wiki/Linux" target="_blank">

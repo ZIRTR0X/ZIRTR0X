@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About me :
 
-I'm Julien, a french second-year student studying computer science at UCA.
+I'm Julien, a french third-year student studying computer science at UCA.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZIRTR0X&layout=compact&show_icons=true&theme=radical)

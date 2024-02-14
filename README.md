@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 <!--!I'm Julien, a french third-year student studying computer science at UCA.-->  
 
+!I'm Julien, a 21-year-old French developer.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZIRTR0X&layout=compact&show_icons=true&theme=radical)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZIRTR0X&layout=compact&show_icons=true&theme=radical)-->  
 <!--![Metrics](https://metrics.lecoq.io/ZIRTR0X?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FParis)-->  
 [![wakatime](https://wakatime.com/badge/user/8ead7b74-441e-4a55-a485-743eaee10516.svg)](https://wakatime.com/@8ead7b74-441e-4a55-a485-743eaee10516)
 
